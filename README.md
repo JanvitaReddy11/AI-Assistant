@@ -29,6 +29,6 @@ This personal assistant streamlines daily tasks by automating processes like ema
 - Allows iterative refinement (up to 10 iterations) to optimize user responses.
 
   ## Setup Instructions
-1] Run “ pip install -r requirements.txt” command
-2] Create a .env file where the api keys of google, groq, tavily, langchain should be given.
-3] Run the command “streamlit run app.py”
+- Run “ pip install -r requirements.txt” command
+- Create a .env file where the api keys of google, groq, tavily, langchain should be given.
+- Run the command “streamlit run app.py”
